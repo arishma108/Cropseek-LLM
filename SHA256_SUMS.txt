@@ -1,0 +1,19 @@
+# SHA256 Checksums for CropSeek-LLM
+# Generated: 2026-09-29
+# Author: Darshani Persadh (ORCID: 0009-0007-5932-1262)
+# Model: https://huggingface.co/persadian/CropSeek-LLM
+# DOI: 10.57967/hf/5849
+# Base Model: deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
+# Dataset: DARJYO/sawotiQ29_crop_optimization
+
+adapter_model.safetensors: SHA256:08f89dbe45e145c2562c5b7d944cc2e25f1c3119b927a085803e652f07195313
+tokenizer.json: SHA256:874f2e516fbe2e7568bfdd00ff8079c3b18cbf9e39c164514b838c585406234f
+
+# NOTE: Additional config files (adapter_config.json, tokenizer_config.json,
+# special_tokens_map.json, config.json, generation_config.json) were generated
+# in ephemeral session and are not individually SHA256-verified here. Their contents
+# are preserved at the model repository URL above and are claimed as part of
+# this work by timestamp of first push.
+
+# To verify downloaded files:
+# sha256sum -c SHA256_SUMS.txt

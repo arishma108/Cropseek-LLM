@@ -1,5 +1,6 @@
 # SHA256 Checksums for CropSeek-LLM
-# Generated: 2026-09-29
+# Date: 2026-09-29
+# initial commit: Feb 23, 2025
 # Author: Darshani Persadh (ORCID: 0009-0007-5932-1262)
 # Model: https://huggingface.co/persadian/CropSeek-LLM
 # DOI: 10.57967/hf/5849
